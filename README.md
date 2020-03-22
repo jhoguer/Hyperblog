@@ -11,5 +11,5 @@ En este curso veremos de todo:
 * trucos muy locos del profesor
 * Las personalidades multiples de Freddy.
 * Creado por el increible Platzi Team.
-
+* Incluye ejemplos en windows linux y Mac
 Y como un amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve a [ver el curso](https://platzi.com/clases/git-github/).
